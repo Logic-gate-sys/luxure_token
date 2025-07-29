@@ -1,6 +1,3 @@
-Here’s a brief and professional `README.md` for your **LuxureToken** project, written in a clear, concise, and developer-friendly format:
-
----
 
 # 💎 LuxureToken
 
